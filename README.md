@@ -14,4 +14,7 @@ Pertemuan 11.
 
 
 Dibawah Ini adala Program jika Dijalankan
-
+![](SS/Screenshot%20(24).png)
+![](SS/Screenshot%20(25).png)
+![](SS/Screenshot%20(26).png)
+![](SS/Screenshot%20(29).png)
